@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Work Sans';
+    src: url('WorkSans-Regular.eot');
+    src: local('Work Sans'), local('WorkSans-Regular'),
+        url('WorkSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('WorkSans-Regular.woff2') format('woff2'),
+        url('WorkSans-Regular.woff') format('woff'),
+        url('WorkSans-Regular.ttf') format('truetype'),
+        url('WorkSans-Regular.svg#WorkSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'News Cycle';
+    src: url('NewsCycle.eot');
+    src: local('News Cycle'), local('NewsCycle'),
+        url('NewsCycle.eot?#iefix') format('embedded-opentype'),
+        url('NewsCycle.woff2') format('woff2'),
+        url('NewsCycle.woff') format('woff'),
+        url('NewsCycle.ttf') format('truetype'),
+        url('NewsCycle.svg#NewsCycle') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gloria Hallelujah';
+    src: url('GloriaHallelujah.eot');
+    src: local('Gloria Hallelujah'), local('GloriaHallelujah'),
+        url('GloriaHallelujah.eot?#iefix') format('embedded-opentype'),
+        url('GloriaHallelujah.woff2') format('woff2'),
+        url('GloriaHallelujah.woff') format('woff'),
+        url('GloriaHallelujah.ttf') format('truetype'),
+        url('GloriaHallelujah.svg#GloriaHallelujah') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url('WorkSans-SemiBold.eot');
+    src: local('Work Sans SemiBold'), local('WorkSans-SemiBold'),
+        url('WorkSans-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('WorkSans-SemiBold.woff2') format('woff2'),
+        url('WorkSans-SemiBold.woff') format('woff'),
+        url('WorkSans-SemiBold.ttf') format('truetype'),
+        url('WorkSans-SemiBold.svg#WorkSans-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'News Cycle';
+    src: url('NewsCycle-Bold.eot');
+    src: local('News Cycle Bold'), local('NewsCycle-Bold'),
+        url('NewsCycle-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NewsCycle-Bold.woff2') format('woff2'),
+        url('NewsCycle-Bold.woff') format('woff'),
+        url('NewsCycle-Bold.ttf') format('truetype'),
+        url('NewsCycle-Bold.svg#NewsCycle-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
